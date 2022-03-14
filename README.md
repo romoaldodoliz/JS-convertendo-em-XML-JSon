@@ -21,11 +21,11 @@ localhost:9000
 
 Endpoint
 ```
-GET localhost:9001/mahasiswa?type=xml
+GET localhost:9000/romoaldo?type=xml
 ```
 
 ```
-POST localhost:9001/mahasiswa/tambah?type=xml
+POST localhost:9000/romoaldo/doliz?type=xml
 ```
 
 Nao se esqueca de criar conexao.js para conectar-se a sua base de dados link abaixo com exemplo:
